@@ -10,8 +10,11 @@
   align-items: center;
   gap: 10px;
 }
+.nav-logo img {
+  border-radius: 50%;
+}
 .nav-logo p {
-  color: #171717;
+  color: #d75d72;
   font-size: 38px;
   font-weight: 600;
 }
